@@ -2,7 +2,7 @@
 
 | Exercise               | Book Chapter |
 |------------------------|--------------|
-| variables              | §3.1          |
+| variables              | §3.1          | AC
 | functions              | §3.3          |
 | if                     | §3.5          |
 | move_semantics         | §4.1          |
