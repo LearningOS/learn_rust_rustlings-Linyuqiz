@@ -5,7 +5,7 @@
 | variables              | §3.1          | AC
 | functions              | §3.3          | AC
 | if                     | §3.5          | AC
-| move_semantics         | §4.1          |
+| move_semantics         | §4.1          | AC
 | primitive_types        | §4.3          |
 | structs                | §5.1          |
 | enums                  | §6            |
