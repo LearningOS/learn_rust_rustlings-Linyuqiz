@@ -3,7 +3,7 @@
 | Exercise               | Book Chapter |
 |------------------------|--------------|
 | variables              | §3.1          | AC
-| functions              | §3.3          |
+| functions              | §3.3          | AC
 | if                     | §3.5          |
 | move_semantics         | §4.1          |
 | primitive_types        | §4.3          |
