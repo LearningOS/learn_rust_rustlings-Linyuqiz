@@ -6,7 +6,7 @@
 | functions              | §3.3          | AC
 | if                     | §3.5          | AC
 | move_semantics         | §4.1          | AC
-| primitive_types        | §4.3          |
+| primitive_types        | §4.3          | AC
 | structs                | §5.1          |
 | enums                  | §6            |
 | modules                | §7            |
