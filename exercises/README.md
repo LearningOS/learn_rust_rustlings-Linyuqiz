@@ -8,10 +8,10 @@
 | move_semantics         | §4.1          | AC
 | primitive_types        | §4.3          | AC
 | structs                | §5.1          | AC
-| enums                  | §6            |
-| modules                | §7            |
-| collections            | §8.1, §8.3    |
-| strings                | §8.2          |
+| enums                  | §6            | AC
+| modules                | §7            | AC
+| collections            | §8.1, §8.3    | AC
+| strings                | §8.2          | AC
 | error_handling         | §9            |
 | generics               | §10           |
 | option                 | §10.1         |
