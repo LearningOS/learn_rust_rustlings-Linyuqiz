@@ -12,11 +12,11 @@
 | modules                | §7            | AC
 | collections            | §8.1, §8.3    | AC
 | strings                | §8.2          | AC
-| error_handling         | §9            |
-| generics               | §10           |
-| option                 | §10.1         |
-| traits                 | §10.2         |
-| tests                  | §11.1         |
+| error_handling         | §9            | AC
+| generics               | §10           | AC
+| option                 | §10.1         | AC
+| traits                 | §10.2         | AC
+| tests                  | §11.1         | AC
 | standard_library_types | §13.2         |
 | threads                | §16.1         |
 | macros                 | §19.6         |
