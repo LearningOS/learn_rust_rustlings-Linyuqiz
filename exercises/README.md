@@ -18,7 +18,7 @@
 | traits                 | §10.2         | AC
 | tests                  | §11.1         | AC
 | standard_library_types | §13.2         |
-| threads                | §16.1         |
+| threads                | §16.1         | AC
 | macros                 | §19.6         |
-| clippy                 | n/a           |
+| clippy                 | n/a           | AC
 | conversions            | n/a           |
