@@ -19,6 +19,6 @@
 | tests                  | §11.1         | AC
 | standard_library_types | §13.2         |
 | threads                | §16.1         | AC
-| macros                 | §19.6         |
+| macros                 | §19.6         | AC
 | clippy                 | n/a           | AC
 | conversions            | n/a           |
